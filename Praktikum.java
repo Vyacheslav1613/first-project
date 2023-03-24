@@ -1,2 +1,3 @@
-Public class Java{
+public class Java{
+
 }
